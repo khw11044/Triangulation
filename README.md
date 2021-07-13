@@ -8,6 +8,6 @@ mpi_inf_3dhp 데이터로 2D annotation을 3D로 Recover
 
 ![1](/plt_triangulation/0001.png)
 
-![2](/plt_triangulation/0002.png)
+![2](/plt_triangulation/0006.png)
 
-![3](/plt_triangulation/0003.png)
+![3](/plt_triangulation/0007.png)
